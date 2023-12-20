@@ -13,7 +13,7 @@
     "@solana/spl-token-registry": "^0.2.64",
     "@solana/spl-token-swap": "0.1.0",
     "@solana/web3.js": "^1.18.0",
-    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^9.5.0",
     "@types/react-router-dom": "^5.1.6",
     "antd": "^4.6.6",
@@ -27,7 +27,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3",
+    "react-scripts": "5.0.0",
     "typescript": "^4.0.0"
   },
   "scripts": {
